@@ -20,9 +20,9 @@ from sklearn.model_selection import train_test_split
 K.set_image_dim_ordering('tf')
 
 # load data
-numepochs=5
+numepochs=500
 batchsize=128
-folder_path = './data500/'
+folder_path = './data/'
 images = []
 labels = []
 class_label = 0
