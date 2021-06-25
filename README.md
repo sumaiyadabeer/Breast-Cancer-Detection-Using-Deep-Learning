@@ -21,9 +21,10 @@ command: pip3 install -r requirement.txt
 2. Install dependencies listed in requirement.txt.
 3. Download the dataset provided by https://ieeexplore.ieee.org/document/7312934
 4. Put all benign and malignant images in folders named  "benign" and "malignant"  respectively. and move both of them in data folder in repo home.
-5. Run Python3 main.py for reproducing results.
-6. Run Python3 guifinal.py for reproducing same results using GUI.
-7. Run Python3 prediction.py for prediction done on trained model.
+5. Using tree command, make sure the directry strucute is same as directory_structure.txt.
+6. Run Python3 main.py for reproducing results.
+7. Run Python3 guifinal.py for reproducing same results using GUI.
+8. Run Python3 prediction.py for prediction done on trained model.
 
 
 
